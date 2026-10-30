@@ -4,7 +4,7 @@
 
 *Developer open to work, building with Python, CfxLua, TypeScript and React.*
 
-*Welcome to my little corner of GitHub — I love creating soft, clean and thoughtful things, from cozy gameplay scripts to elegant full-stack apps.*
+*Welcome to my little corner of GitHub - I love creating soft, clean and thoughtful things, from cozy gameplay scripts to elegant full-stack apps.*
 
 </div>
 
@@ -22,7 +22,7 @@ Currently looking for my next role and freelance work. I care about gentle detai
 ![React](https://img.shields.io/badge/React-FFC8DD?style=for-the-badge&logo=react&logoColor=7A5C66)
 ![Node.js](https://img.shields.io/badge/Node.js-CDB4DB?style=for-the-badge&logo=node.js&logoColor=white)
 
-CfxLua for FiveM, Python for automation, TypeScript and React for the web — and always happy to learn whatever a project needs.
+CfxLua for FiveM, Python for automation, TypeScript and React for the web - and always happy to learn whatever a project needs.
 
 ---
 
@@ -49,7 +49,7 @@ CfxLua for FiveM, Python for automation, TypeScript and React for the web — and 
 ### Let's Connect
 
 - GitHub: [@sinwire](https://github.com/sinwire)
-- Open to opportunities, collaborations and kind conversations — feel free to reach out here on GitHub
+- Open to opportunities, collaborations and kind conversations - feel free to reach out here on GitHub
 
 <div align="center">
 
